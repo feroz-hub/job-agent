@@ -1,0 +1,30 @@
+name: "Your Name"
+current_role: "Your Current Role"
+years_of_experience: 4
+current_location: "Chennai"
+preferred_locations:
+  - Chennai
+  - Remote
+target_roles:
+  - .NET Developer
+  - Senior .NET Developer
+  - .NET Full Stack Developer
+primary_skills:
+  - C#
+  - .NET
+  - ASP.NET Core
+  - Web API
+  - Entity Framework Core
+  - SQL
+secondary_skills: []
+frameworks: []
+databases: []
+cloud_tools: []
+ai_skills: []
+work_experience_summary: "Replace with your actual experience"
+projects: []
+education: ""
+notice_period: ""
+current_ctc: ""
+expected_ctc: ""
+willing_to_relocate: false
