@@ -1,0 +1,30 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables / API keys
+.env
+
+# Personal job-search profile
+profile.yaml
+
+# Browser login sessions
+session_*.json
+
+# Personal resume files
+resume/
+
+# Generated job data
+data/*.csv
+data/*.json
+
+# Runtime logs
+logs/*.log
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
